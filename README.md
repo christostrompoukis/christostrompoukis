@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript & D3.js**
 
-- 🏙️ I’m a PhD candidate at **NTUA, researching AI tools for urban design and modeling!**
+- 🏙️ I’m a PhD candidate at **NTUA, researching AI tools for urban design and analysis!**
 
 - 📫 How to reach me **christos.trompoukis0@gmail.com**
 
